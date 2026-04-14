@@ -7,36 +7,48 @@ This blog is about GenAI, LLMs, machine learning, Python, and tech education. I 
 
 # About Me
 
-I'm **Raja CSP Raman** — an engineer, educator, author, and founder.
+I'm **Sai Rashmi B J** — an Electrical Electronics Engineering student based in Bengaluru, Karnataka, with a passion for IoT, embedded systems, and smart technology.
 
-From a rural school in Odiapatti to a career spanning multiple continents, my journey has been driven by curiosity and a deep commitment to giving back. I'm an alumnus of **Thiagarajar College of Engineering** and started my career working alongside IIT Madras professors at **NMSWorks** (a parent company of Zoho).
+Currently pursuing my **Bachelor of Engineering in Electrical Electronics Engineering** at BNM Institute of Technology, Bengaluru (CGPA: 7.54/10), I work at the intersection of hardware and software — building systems that are practical, measurable, and impactful.
 
-I moved to Canada in 2010 and studied at **Humber Institute of Technology** in Toronto. Over 13 years in Ontario, I built a career working with American and European clients across diverse tech domains — from ticketing systems to retail and gaming technology.
+## Technical Skills
 
-Throughout my career, I've dedicated my weekends to mentoring students from rural backgrounds, teaching them cutting-edge technologies through one-on-one sessions. The impact: **442 students** have secured their first jobs through my guidance, with over **30 of them** now earning more than ₹20 lakhs annually.
+- **Programming Languages:** C, Python, C#, MATLAB
+- **Platforms & Tools:** BLYNK IoT, MATLAB & Simulink, Autodesk Fusion 360, Canva
 
-## Current Work
+## Projects
 
-I'm the founder of **[Kactii](https://app.kactii.com/c/raja)** — a GenAI Agent Marketplace. I also operate **Kactii Academy** from Toronto, focusing on nurturing both Canadians and South Indians in the latest GenAI technology stack. Previously, I led **Aracor** as Head of AI & Engineering, where I managed an 11-member team and initiated the AI roadmap for AracorAI.
+**IoT Based Plant Monitoring System** — Built a smart irrigation system using BLYNK IoT, DHT11, Soil Moisture Sensor, and ESP8266. Achieved 95% Wi-Fi transmission reliability and reduced water usage by 30% through automated triggers. IEEE conference paper submitted.
 
-I'm also the founder of **Featurepreneur**, an invitation-only Slack community focused on student development, supporting Canadian SMEs and startups on their micro features.
+**Battery Monitoring System using Raspberry Pi** — Designed a Li-ion battery monitoring system with Python-based processing on Raspberry Pi 4. Achieved 98% SOC estimation accuracy using Coulomb counting and voltage correlation. IEEE conference paper submitted.
 
-My ambitious 10-year mission is to establish **Tamil Nadu as the GenAI Hub of India**, a vision I'm actively pursuing through collaborations with engineering colleges across Tamil Nadu.
+**SheTrack** — A wearable GPS safety device using GPS Neo-6M, ESP32, Firebase, and MIT App Inventor. Features panic button, real-time location updates every 10s, SOS alerts, and geofencing with 90% success in urban testing.
 
-## Publications & Open Source
+## Internships
 
-- Author of **"Building RESTful Web Services with Spring 5"**
-- Published **8 research papers** on Arxiv, with collaborative student efforts
-- PyPI / FOSS contributions: **Agentic Optio** (lightweight LangChain alternate), **TokSum** (GenAI token counter), **Tamil Tokenizer**
+- **MATLAB Simulink** — Modeled and simulated electrical systems; gained hands-on experience in system-level design and analysis.
+- **Capbl** — Worked on electric vehicle design fundamentals including powertrain modeling and performance optimization.
+- **Spectrum Tool Engineer Pvt. Ltd.** — Hands-on experience with smart street lighting using PIR sensors, LED drivers, smart meters, and CCMS panels.
 
-## Links
+## Achievements
 
-- [LinkedIn](https://www.linkedin.com/in/raja-csp-raman/)
-- [GitHub](https://github.com/rajacsp)
-- [PyPI](https://pypi.org/user/rajacsp/)
-- [Google Scholar](https://scholar.google.com/citations?user=rajacsp)
-- [Kactii](https://app.kactii.com/c/raja)
+- IEEE Conference Paper Submissions — IoT Based Plant Monitoring System & Battery Monitoring System
+- Code Crunch Hackathon — MathWorks
+- IBM Hackathon — EcoEquify
+- Product Design Engineering using Autodesk Fusion — ICT Academy
+- Designed and published a technical e-magazine on electrical innovations
 
-## Outside of Tech
+## Co-Curricular
 
-When I'm not shaping the future of tech education, you might find me unwinding with a John Grisham novel.
+- Member of IEEE
+- Secretary, IEEE VTS Society BNMIT
+- NSS Volunteer
+
+## Languages
+
+Kannada, English
+
+## Contact
+
+- Email: [rashmirash3105@gmail.com](mailto:rashmirash3105@gmail.com)
+- Phone: +91 9902683445
